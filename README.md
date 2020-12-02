@@ -1,0 +1,2 @@
+# Introduction-to-Machine-Learning-Certification
+The course was offered by Duke University via Coursera. The course provided a foundational understanding of machine learning models (logistic regression, multilayer perceptrons, convolutional neural networks, natural language processing, etc.) as well as demonstrate how these models can solve complex problems in a variety of industries, from medical diagnostics to image recognition to text prediction.
